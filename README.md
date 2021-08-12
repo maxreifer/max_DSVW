@@ -15,7 +15,7 @@ Run the following command:
 ```
 $ python dsvw.py 
 Damn Small Vulnerable Web (DSVW) < 100 LoC (Lines of Code) #v0.2a
- by: Miroslav Stampar (@stamparm)
+ by: Miroslav Stampar (@stamparm)/ change
 
 [i] running HTTP server at 'http://127.0.0.1:65412'...
 ```
